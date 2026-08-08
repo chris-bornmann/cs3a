@@ -1,9 +1,9 @@
-/*****************************************************/
-/* CS03A - Summer 2026
-/* Assignment 2 - Question 2
-/* Student Name: Chris Bornmann
-/* SID: 20743473
-/***************************************************/
+#*****************************************************/
+# CS03A - Summer 2026
+# Assignment 2 - Question 2
+# Student Name: Chris Bornmann
+# SID: 20743473
+#***************************************************/
 
 import math
 import sys

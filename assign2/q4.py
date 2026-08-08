@@ -1,9 +1,9 @@
-/*****************************************************/
-/* CS03A - Summer 2026
-/* Assignment 2 - Question 4
-/* Student Name: Chris Bornmann
-/* SID: 20743473
-/***************************************************/
+#*****************************************************/
+# CS03A - Summer 2026
+# Assignment 2 - Question 4
+# Student Name: Chris Bornmann
+# SID: 20743473
+#***************************************************/
 
 
 TEMPLATE = 'template.html'
